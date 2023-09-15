@@ -28,7 +28,7 @@ author: "Class of 3494/5095, Fall 2023"
 11/20  |                     | 
 11/20  |                     | 
 12/04  |                     | 
-12/04  |                     | 
+12/04  |    Sean Murphy      | 
 
 # Section 2 (Monday 4:40 pm)
 
