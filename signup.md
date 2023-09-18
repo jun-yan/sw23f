@@ -28,7 +28,7 @@ author: "Class of 3494/5095, Fall 2023"
 11/27  |    Ge Li            | 
 11/27  | Garrick Ho          | 
 12/04  |  Zoe Macris         | 
-12/04  |                     | 
+12/04  |  Ella Stanwood      | 
 
 # Section 2 (Monday 4:40 pm)
 
