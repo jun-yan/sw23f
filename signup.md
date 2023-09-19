@@ -11,8 +11,8 @@ author: "Class of 3494/5095, Fall 2023"
 ------ | ------------------- | ------
 09/25  | Mathew Chandy       | ChatGPT for Data Science
 09/25  |                     | 
-10/02  |                     | 
-10/02  |                     | 
+10/02  | Ella Stanwood       | 
+10/02  | Ajay Natarajan.     | 
 10/09  | Carol Li            | 
 10/09  | Chenyu Mu           | 
 10/16  | Boyoun Chung        | 
@@ -28,7 +28,7 @@ author: "Class of 3494/5095, Fall 2023"
 11/27  |    Ge Li            | 
 11/27  | Garrick Ho          | 
 12/04  |  Zoe Macris         | 
-12/04  |                     | 
+12/04  |    Sean Murphy      | 
 
 # Section 2 (Monday 4:40 pm)
 
@@ -36,7 +36,7 @@ author: "Class of 3494/5095, Fall 2023"
 ------ | ------------------- | ------
 09/25  |                     | 
 10/02  |                     | 
-10/09  |                     | 
+10/09  | Tonia Mei           | 
 10/16  |  Justin Chan        | 
 10/23  | Kathleen Houlihan   | 
 10/30  | Okem Chime          | 
@@ -44,4 +44,3 @@ author: "Class of 3494/5095, Fall 2023"
 11/13  |  Miles Kee          | 
 11/27  | Thomas Lin          | 
 12/04  |      Hao Ding       | 
-
