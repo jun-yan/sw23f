@@ -36,7 +36,7 @@ author: "Class of 3494/5095, Fall 2023"
 ------ | ------------------- | ------
 09/25  |                     | 
 10/02  |                     | 
-10/09  |                     | 
+10/09  | Tonia Mei           | 
 10/16  |  Justin Chan        | 
 10/23  | Kathleen Houlihan   | 
 10/30  | Okem Chime          | 
@@ -44,4 +44,3 @@ author: "Class of 3494/5095, Fall 2023"
 11/13  |  Miles Kee          | 
 11/27  | Thomas Lin          | 
 12/04  |      Hao Ding       | 
-
