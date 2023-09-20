@@ -12,7 +12,7 @@ author: "Class of 3494/5095, Fall 2023"
 09/25  | Mathew Chandy       | ChatGPT for Data Science
 09/25  |                     | 
 10/02  | Ella Stanwood       | 
-10/02  | Ajay Natarajan.     | 
+10/02  | Ajay Natarajan      | 
 10/09  | Carol Li            | 
 10/09  | Chenyu Mu           | 
 10/16  | Boyoun Chung        | 
