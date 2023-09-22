@@ -22,7 +22,7 @@ author: "Class of 3494/5095, Fall 2023"
 10/30  |     Shuiyi Hu       | 
 10/30  | Ashley Merritt      | 
 11/06  | Luke Noel           | 
-11/06  |    Lai Jiang        | 
+11/06  |    Lai Jiang        | Regression on Statistics and Machine Learning
 11/13  | Richa Patel         | 
 11/13  | Alexander Rice      | 
 11/27  |    Ge Li            | 
