@@ -45,3 +45,11 @@ author: "Class of 3494/5095, Fall 2023"
 11/13  |  Miles Kee          | 
 11/27  | Thomas Lin          | 
 12/04  |      Hao Ding       | 
+
+# Possible topics on writing
+
++ How to develop a paragraph
++ How to write the introduction section
++ Proper usage of tenses in academic writing
++ Making professional-looking tables
++ Gopen, G. D. (2022). Getting the point across. American Scientist, 110(6), 346-351. 
